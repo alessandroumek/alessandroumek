@@ -7,7 +7,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-blue?style=flat-square&logo=github-actions&logoColor=white)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-Clean%20Code-brightgreen?style=flat-square&logo=eslint&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-First%20Class%20Citizen-yellow?style=flat-square&logo=jest)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-23a8e0?style=flat-square&logo=github)
 
 ### Frontend Engineer passionate about clean architecture, scalable UI, and developer experience.
 
