@@ -36,6 +36,7 @@ _Projects coming soon. Stay tuned!_
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/alessandroumek/)
+- [email]([https://alessandroumek.it#c](https://alessandroumek.it/#contact))
 
 ---
 
